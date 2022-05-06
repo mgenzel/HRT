@@ -88,7 +88,7 @@ NICHTLINEARE SYSTEME
 
 ## Skript Kapitel Nachbereitung 
 
-- [ ] C01
+- [X] C01
 - [ ] C02
 - [ ] C03
 - [ ] C04
