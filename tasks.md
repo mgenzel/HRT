@@ -71,7 +71,7 @@ NICHTLINEARE SYSTEME
 ## Skript Kapitel Vorbereitung
 
 - [X] C01
-- [ ] C02
+- [X] C02
 - [ ] C03
 - [ ] C04
 - [ ] C05
