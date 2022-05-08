@@ -39,6 +39,12 @@ NICHTLINEARE SYSTEME
 
 ---
 
+## Dynexite Wiederholung 
+
+- [ ] D01 - Grundlagen RT
+
+---
+
 ## E-Tests
 
 - [ ] T01 - WOK, LQR, Loopshaping
