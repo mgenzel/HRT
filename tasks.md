@@ -7,7 +7,7 @@ REGELZIELE
 - [ ] L04 - Regelziele als Gütefunktion im Bodediagramm (Closed-Loop-Shaping, Generalized Plant)
 
 LINEARE SYSTEME
-- [ ] L05 - Mehrgrößensysteme
+- [X] L05 - Mehrgrößensysteme
 - [ ] L06 - Zeitdiskrete Systeme
 - [ ] L07 - Zeitdiskrete Regelungen
 - [ ] L08 - Zyklische Prozesse (Iterativ lernende Regelung)
@@ -27,7 +27,7 @@ NICHTLINEARE SYSTEME
 - [ ] E02 - LQR, Beobachter
 - [ ] E03 - Open-Loop-Shaping
 - [ ] E04 - Closed-Loop-Shaping
-- [ ] E05 - MIMO, RGA, Stabilität
+- [X] E05 - MIMO, RGA, Stabilität
 - [ ] E06 - z-Trafo
 - [ ] E07 - Zeitdiskrete Reglerauslegung
 - [ ] E08 - ILR
@@ -48,7 +48,7 @@ NICHTLINEARE SYSTEME
 ## E-Tests
 
 - [ ] T01 - WOK, LQR, Loopshaping
-- [ ] T02 - Mehrgrößensysteme, Zeitdiskrete Regelung
+- [X] T02 - Mehrgrößensysteme, Zeitdiskrete Regelung
 - [ ] T03 - ILR, Nichtlineare Regelung
 - [ ] T04 - Sliding Mode, MPR, Beschränkungen
 
@@ -76,34 +76,34 @@ NICHTLINEARE SYSTEME
 
 ## Skript Kapitel Vorbereitung
 
-- [X] C01
-- [X] C02
-- [ ] C03
-- [ ] C04
-- [ ] C05
-- [ ] C06
-- [ ] C07
-- [ ] C08
-- [ ] C09
-- [ ] C10
-- [ ] C11
-- [ ] C12
-- [ ] C13
+- [X] C01 - WOK
+- [X] C02 - LQR
+- [ ] C03 - Open-Loop-Shaping
+- [ ] C04 - Closed-Loop-Shaping 
+- [X] C05 - Mehrgrößensysteme
+- [ ] C06 - z-Trafo
+- [ ] C07 - Zeitdiskrete Reglerauslegung
+- [ ] C08 - ILR
+- [ ] C09 - Nichtlineare Systeme
+- [ ] C10 - Regelung nichtlinearer Systeme
+- [ ] C11 - Sliding Mode Control
+- [ ] C12 - Modellprädiktive Regelung
+- [ ] C13 - Beschreibungsfunktionen
 
 ---
 
 ## Skript Kapitel Nachbereitung 
 
-- [X] C01
-- [ ] C02
-- [ ] C03
-- [ ] C04
-- [ ] C05
-- [ ] C06
-- [ ] C07
-- [ ] C08
-- [ ] C09
-- [ ] C10
-- [ ] C11
-- [ ] C12
-- [ ] C13
+- [X] C01 - WOK
+- [ ] C02 - LQR
+- [ ] C03 - Open-Loop-Shaping
+- [ ] C04 - Closed-Loop-Shaping 
+- [X] C05 - Mehrgrößensysteme
+- [ ] C06 - z-Trafo
+- [ ] C07 - Zeitdiskrete Reglerauslegung
+- [ ] C08 - ILR
+- [ ] C09 - Nichtlineare Systeme
+- [ ] C10 - Regelung nichtlinearer Systeme
+- [ ] C11 - Sliding Mode Control
+- [ ] C12 - Modellprädiktive Regelung
+- [ ] C13 - Beschreibungsfunktionen
