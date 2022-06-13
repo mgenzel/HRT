@@ -10,7 +10,7 @@ LINEARE SYSTEME
 - [X] L05 - Mehrgrößensysteme
 - [ ] L06 - Zeitdiskrete Systeme
 - [ ] L07 - Zeitdiskrete Regelungen
-- [ ] L08 - Zyklische Prozesse (Iterativ lernende Regelung)
+- [X] L08 - Zyklische Prozesse (Iterativ lernende Regelung)
 
 NICHTLINEARE SYSTEME
 - [ ] L09 - Einführung in dynamische nichtlineare Systeme
@@ -30,7 +30,7 @@ NICHTLINEARE SYSTEME
 - [X] E05 - MIMO, RGA, Stabilität
 - [ ] E06 - z-Trafo
 - [ ] E07 - Zeitdiskrete Reglerauslegung
-- [ ] E08 - ILR
+- [X] E08 - ILR
 - [ ] E09 - Nichtlineare Systeme
 - [ ] E10 - Regelung nichtlinearer Systeme
 - [ ] E11 - Sliding Mode Control
@@ -83,7 +83,7 @@ NICHTLINEARE SYSTEME
 - [X] C05 - Mehrgrößensysteme
 - [ ] C06 - z-Trafo
 - [ ] C07 - Zeitdiskrete Reglerauslegung
-- [ ] C08 - ILR
+- [X] C08 - ILR
 - [ ] C09 - Nichtlineare Systeme
 - [ ] C10 - Regelung nichtlinearer Systeme
 - [ ] C11 - Sliding Mode Control
@@ -101,7 +101,7 @@ NICHTLINEARE SYSTEME
 - [X] C05 - Mehrgrößensysteme
 - [ ] C06 - z-Trafo
 - [ ] C07 - Zeitdiskrete Reglerauslegung
-- [ ] C08 - ILR
+- [X] C08 - ILR
 - [ ] C09 - Nichtlineare Systeme
 - [ ] C10 - Regelung nichtlinearer Systeme
 - [ ] C11 - Sliding Mode Control
