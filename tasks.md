@@ -13,7 +13,7 @@ LINEARE SYSTEME
 - [X] L08 - Zyklische Prozesse (Iterativ lernende Regelung)
 
 NICHTLINEARE SYSTEME
-- [ ] L09 - Einführung in dynamische nichtlineare Systeme
+- [X] L09 - Einführung in dynamische nichtlineare Systeme
 - [ ] L10 - Flachheit + Backstepping
 - [ ] L11 - Sliding Mode Control
 - [ ] L12 - Regelung mit Beschränkungen (MPC)
