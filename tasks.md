@@ -102,7 +102,7 @@ NICHTLINEARE SYSTEME
 - [ ] C06 - z-Trafo
 - [ ] C07 - Zeitdiskrete Reglerauslegung
 - [X] C08 - ILR
-- [ ] C09 - Nichtlineare Systeme
+- [X] C09 - Nichtlineare Systeme
 - [ ] C10 - Regelung nichtlinearer Systeme
 - [ ] C11 - Sliding Mode Control
 - [ ] C12 - Modellprädiktive Regelung
