@@ -31,11 +31,28 @@ NICHTLINEARE SYSTEME
 - [ ] E06 - z-Trafo
 - [ ] E07 - Zeitdiskrete Reglerauslegung
 - [X] E08 - ILR
-- [ ] E09 - Nichtlineare Systeme
+- [X] E09 - Nichtlineare Systeme
 - [ ] E10 - Regelung nichtlinearer Systeme
 - [ ] E11 - Sliding Mode Control
 - [ ] E12 - Modellprädiktive Regelung
 - [ ] E13 - Beschreibungsfunktionen
+---
+
+## Zusatzaufgaben
+
+- [ ] Z01 - WOK
+- [ ] Z02 - LQR, Beobachter
+- [ ] Z03 - Open-Loop-Shaping
+- [ ] Z04 - Closed-Loop-Shaping
+- [ ] Z05 - MIMO, RGA, Stabilität
+- [ ] Z06 - z-Trafo
+- [ ] Z07 - Zeitdiskrete Reglerauslegung
+- [ ] Z08 - ILR
+- [ ] Z09 - Nichtlineare Systeme
+- [ ] Z10 - Regelung nichtlinearer Systeme
+- [ ] Z11 - Sliding Mode Control
+- [ ] Z12 - Modellprädiktive Regelung
+- [ ] Z13 - Beschreibungsfunktionen
 
 ---
 
