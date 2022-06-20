@@ -14,7 +14,7 @@ LINEARE SYSTEME
 
 NICHTLINEARE SYSTEME
 - [X] L09 - Einführung in dynamische nichtlineare Systeme
-- [ ] L10 - Flachheit + Backstepping
+- [X] L10 - Flachheit + Backstepping
 - [ ] L11 - Sliding Mode Control
 - [ ] L12 - Regelung mit Beschränkungen (MPC)
 - [ ] L13 - Regelung mit schaltenden Elementen
@@ -101,8 +101,8 @@ NICHTLINEARE SYSTEME
 - [ ] C06 - z-Trafo
 - [ ] C07 - Zeitdiskrete Reglerauslegung
 - [X] C08 - ILR
-- [ ] C09 - Nichtlineare Systeme
-- [ ] C10 - Regelung nichtlinearer Systeme
+- [X] C09 - Nichtlineare Systeme
+- [X] C10 - Regelung nichtlinearer Systeme
 - [ ] C11 - Sliding Mode Control
 - [ ] C12 - Modellprädiktive Regelung
 - [ ] C13 - Beschreibungsfunktionen
@@ -124,3 +124,7 @@ NICHTLINEARE SYSTEME
 - [ ] C11 - Sliding Mode Control
 - [ ] C12 - Modellprädiktive Regelung
 - [ ] C13 - Beschreibungsfunktionen
+
+## Weiteres
+
+- [ ] Wiederholungs-Kapitel aus RT zusammenfassen
