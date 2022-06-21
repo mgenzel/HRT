@@ -120,7 +120,7 @@ NICHTLINEARE SYSTEME
 - [ ] C07 - Zeitdiskrete Reglerauslegung
 - [X] C08 - ILR
 - [X] C09 - Nichtlineare Systeme
-- [ ] C10 - Regelung nichtlinearer Systeme
+- [X] C10 - Regelung nichtlinearer Systeme
 - [ ] C11 - Sliding Mode Control
 - [ ] C12 - Modellprädiktive Regelung
 - [ ] C13 - Beschreibungsfunktionen
