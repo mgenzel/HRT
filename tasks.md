@@ -66,7 +66,7 @@ NICHTLINEARE SYSTEME
 
 - [ ] T01 - WOK, LQR, Loopshaping
 - [X] T02 - Mehrgrößensysteme, Zeitdiskrete Regelung
-- [ ] T03 - ILR, Nichtlineare Regelung
+- [X] T03 - ILR, Nichtlineare Regelung
 - [ ] T04 - Sliding Mode, MPR, Beschränkungen
 
 ---
