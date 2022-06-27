@@ -32,8 +32,8 @@ NICHTLINEARE SYSTEME
 - [ ] E07 - Zeitdiskrete Reglerauslegung
 - [X] E08 - ILR
 - [X] E09 - Nichtlineare Systeme
-- [ ] E10 - Regelung nichtlinearer Systeme
-- [ ] E11 - Sliding Mode Control
+- [X] E10 - Regelung nichtlinearer Systeme
+- [X] E11 - Sliding Mode Control
 - [ ] E12 - Modellprädiktive Regelung
 - [ ] E13 - Beschreibungsfunktionen
 ---
