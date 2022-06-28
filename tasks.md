@@ -2,7 +2,7 @@
 
 REGELZIELE
 - [X] L01 - Regelziele im Pol- Nullstellendiagramm (WOK)
-- [ ] L02 - Regelziele als Gütefunktion (LQR, Beobachter)
+- [X] L02 - Regelziele als Gütefunktion (LQR, Beobachter)
 - [ ] L03 - Regelziele im Bodediagramm (Open-Loop-Shaping)
 - [ ] L04 - Regelziele als Gütefunktion im Bodediagramm (Closed-Loop-Shaping, Generalized Plant)
 
