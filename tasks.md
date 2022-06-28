@@ -3,8 +3,8 @@
 REGELZIELE
 - [X] L01 - Regelziele im Pol- Nullstellendiagramm (WOK)
 - [X] L02 - Regelziele als Gütefunktion (LQR, Beobachter)
+    - [ ] Lösungsforschrift für $p_{opt}$ aus Matrix-Riccatti-Gleichung für Prüfung vorberechnen
 - [ ] L03 - Regelziele im Bodediagramm (Open-Loop-Shaping)
-- [ ] L04 - Regelziele als Gütefunktion im Bodediagramm (Closed-Loop-Shaping, Generalized Plant)
 
 LINEARE SYSTEME
 - [X] L05 - Mehrgrößensysteme
@@ -112,7 +112,7 @@ NICHTLINEARE SYSTEME
 ## Skript Kapitel Nachbereitung 
 
 - [X] C01 - WOK
-- [ ] C02 - LQR
+- [X] C02 - LQR
 - [ ] C03 - Open-Loop-Shaping
 - [ ] C04 - Closed-Loop-Shaping 
 - [X] C05 - Mehrgrößensysteme
