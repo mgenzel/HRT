@@ -3,7 +3,6 @@
 REGELZIELE
 - [X] L01 - Regelziele im Pol- Nullstellendiagramm (WOK)
 - [X] L02 - Regelziele als Gütefunktion (LQR, Beobachter)
-    - [ ] Lösungsforschrift für $p_{opt}$ aus Matrix-Riccatti-Gleichung für Prüfung vorberechnen
 - [ ] L03 - Regelziele im Bodediagramm (Open-Loop-Shaping)
 
 LINEARE SYSTEME
@@ -24,7 +23,7 @@ NICHTLINEARE SYSTEME
 ## Übungen
 
 - [X] E01 - WOK
-- [ ] E02 - LQR, Beobachter
+- [X] E02 - LQR, Beobachter
 - [ ] E03 - Open-Loop-Shaping
 - [ ] E04 - Closed-Loop-Shaping
 - [X] E05 - MIMO, RGA, Stabilität
@@ -125,6 +124,10 @@ NICHTLINEARE SYSTEME
 - [ ] C12 - Modellprädiktive Regelung
 - [ ] C13 - Beschreibungsfunktionen
 
+---
+
 ## Weiteres
 
 - [ ] Wiederholungs-Kapitel aus RT zusammenfassen
+- [ ] Videos + Mitschriften + Nachträge der Live-Übungen durchgehen
+- [?] Lösungsforschrift für $p_{opt}$ aus Matrix-Riccatti-Gleichung für Prüfung vorberechnen
