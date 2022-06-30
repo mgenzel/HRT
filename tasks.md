@@ -3,7 +3,8 @@
 REGELZIELE
 - [X] L01 - Regelziele im Pol- Nullstellendiagramm (WOK)
 - [X] L02 - Regelziele als Gütefunktion (LQR, Beobachter)
-- [ ] L03 - Regelziele im Bodediagramm (Open-Loop-Shaping)
+- [X] L03 - Regelziele im Bodediagramm (Open-Loop-Shaping)
+- [ ] L04 - Gütefunktionen im Bodediagramm (Closed-Loop-Shaping)
 
 LINEARE SYSTEME
 - [X] L05 - Mehrgrößensysteme
@@ -24,7 +25,7 @@ NICHTLINEARE SYSTEME
 
 - [X] E01 - WOK
 - [X] E02 - LQR, Beobachter
-- [ ] E03 - Open-Loop-Shaping
+- [ ] E03 - Open-Loop-Shaping 
 - [ ] E04 - Closed-Loop-Shaping
 - [X] E05 - MIMO, RGA, Stabilität
 - [ ] E06 - z-Trafo
@@ -131,3 +132,4 @@ NICHTLINEARE SYSTEME
 - [ ] Wiederholungs-Kapitel aus RT zusammenfassen
 - [ ] Videos + Mitschriften + Nachträge der Live-Übungen durchgehen
 - [?] Lösungsforschrift für $p_{opt}$ aus Matrix-Riccatti-Gleichung für Prüfung vorberechnen
+- [ ] Learnings aus Übungen in Hefter zusammenfassen
