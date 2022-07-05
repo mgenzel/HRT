@@ -16,7 +16,7 @@ NICHTLINEARE SYSTEME
 - [X] L09 - Einführung in dynamische nichtlineare Systeme
 - [X] L10 - Flachheit + Backstepping
 - [X] L11 - Sliding Mode Control
-- [ ] L12 - Regelung mit Beschränkungen (MPC)
+- [X] L12 - Regelung mit Beschränkungen (MPC)
 - [ ] L13 - Regelung mit schaltenden Elementen
 
 ---
