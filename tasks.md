@@ -25,7 +25,7 @@ NICHTLINEARE SYSTEME
 
 - [X] E01 - WOK
 - [X] E02 - LQR, Beobachter
-- [ ] E03 - Open-Loop-Shaping 
+- [X] E03 - Open-Loop-Shaping 
 - [ ] E04 - Closed-Loop-Shaping
 - [X] E05 - MIMO, RGA, Stabilität
 - [ ] E06 - z-Trafo
@@ -113,7 +113,7 @@ NICHTLINEARE SYSTEME
 
 - [X] C01 - WOK
 - [X] C02 - LQR
-- [ ] C03 - Open-Loop-Shaping
+- [X] C03 - Open-Loop-Shaping
 - [ ] C04 - Closed-Loop-Shaping 
 - [X] C05 - Mehrgrößensysteme
 - [ ] C06 - z-Trafo
@@ -129,7 +129,8 @@ NICHTLINEARE SYSTEME
 
 ## Weiteres
 
+- [ ] Zusammenfassung Nachlesung 11
 - [ ] Wiederholungs-Kapitel aus RT zusammenfassen
 - [ ] Videos + Mitschriften + Nachträge der Live-Übungen durchgehen
-- [?] Lösungsforschrift für $p_{opt}$ aus Matrix-Riccatti-Gleichung für Prüfung vorberechnen
+- [X] Lösungsforschrift für $p_{opt}$ aus Matrix-Riccatti-Gleichung für Prüfung vorberechnen
 - [ ] Learnings aus Übungen in Hefter zusammenfassen
