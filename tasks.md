@@ -104,7 +104,7 @@ NICHTLINEARE SYSTEME
 - [X] C09 - Nichtlineare Systeme
 - [X] C10 - Regelung nichtlinearer Systeme
 - [X] C11 - Sliding Mode Control
-- [ ] C12 - Modellprädiktive Regelung
+- [X] C12 - Modellprädiktive Regelung
 - [ ] C13 - Beschreibungsfunktionen
 
 ---
