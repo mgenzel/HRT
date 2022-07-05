@@ -1,0 +1,2 @@
+- führt eine lineare MPC ohne Beschränkung zu den gleichen Parametern des Zusandsreglers, wie ein LQR,
+    - falls die selben Forderungen an Q und R gestellt werden?
