@@ -114,7 +114,7 @@ NICHTLINEARE SYSTEME
 - [X] C01 - WOK
 - [X] C02 - LQR
 - [X] C03 - Open-Loop-Shaping
-- [ ] C04 - Closed-Loop-Shaping 
+- [X] C04 - Closed-Loop-Shaping 
 - [X] C05 - Mehrgrößensysteme
 - [ ] C06 - z-Trafo
 - [ ] C07 - Zeitdiskrete Reglerauslegung
