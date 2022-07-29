@@ -4,7 +4,7 @@ REGELZIELE
 - [X] L01 - Regelziele im Pol- Nullstellendiagramm (WOK)
 - [X] L02 - Regelziele als Gütefunktion (LQR, Beobachter)
 - [X] L03 - Regelziele im Bodediagramm (Open-Loop-Shaping)
-- [ ] L04 - Gütefunktionen im Bodediagramm (Closed-Loop-Shaping)
+- [X] L04 - Gütefunktionen im Bodediagramm (Closed-Loop-Shaping)
 
 LINEARE SYSTEME
 - [X] L05 - Mehrgrößensysteme
