@@ -1,0 +1,1 @@
+- Was ist gemeint mit "minimale Bandbreite" beim Einstellen von Wp in der weighted sensitivity
