@@ -26,7 +26,7 @@ NICHTLINEARE SYSTEME
 - [X] E01 - WOK
 - [X] E02 - LQR, Beobachter
 - [X] E03 - Open-Loop-Shaping 
-- [ ] E04 - Closed-Loop-Shaping
+- [X] E04 - Closed-Loop-Shaping
 - [X] E05 - MIMO, RGA, Stabilität
 - [ ] E06 - z-Trafo
 - [ ] E07 - Zeitdiskrete Reglerauslegung
