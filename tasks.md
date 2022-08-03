@@ -28,7 +28,7 @@ NICHTLINEARE SYSTEME
 - [X] E03 - Open-Loop-Shaping 
 - [X] E04 - Closed-Loop-Shaping
 - [X] E05 - MIMO, RGA, Stabilität
-- [ ] E06 - z-Trafo
+- [X] E06 - z-Trafo
 - [ ] E07 - Zeitdiskrete Reglerauslegung
 - [X] E08 - ILR
 - [X] E09 - Nichtlineare Systeme
