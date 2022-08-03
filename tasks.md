@@ -116,7 +116,7 @@ NICHTLINEARE SYSTEME
 - [X] C03 - Open-Loop-Shaping
 - [X] C04 - Closed-Loop-Shaping 
 - [X] C05 - Mehrgrößensysteme
-- [ ] C06 - z-Trafo
+- [X] C06 - z-Trafo
 - [ ] C07 - Zeitdiskrete Reglerauslegung
 - [X] C08 - ILR
 - [X] C09 - Nichtlineare Systeme
