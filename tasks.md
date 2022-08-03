@@ -99,7 +99,7 @@ NICHTLINEARE SYSTEME
 - [X] C04 - Closed-Loop-Shaping 
 - [X] C05 - Mehrgrößensysteme
 - [X] C06 - z-Trafo
-- [ ] C07 - Zeitdiskrete Reglerauslegung
+- [X] C07 - Zeitdiskrete Reglerauslegung
 - [X] C08 - ILR
 - [X] C09 - Nichtlineare Systeme
 - [X] C10 - Regelung nichtlinearer Systeme
