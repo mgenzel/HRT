@@ -8,7 +8,7 @@ REGELZIELE
 
 LINEARE SYSTEME
 - [X] L05 - Mehrgrößensysteme
-- [ ] L06 - Zeitdiskrete Systeme
+- [X] L06 - Zeitdiskrete Systeme
 - [ ] L07 - Zeitdiskrete Regelungen
 - [X] L08 - Zyklische Prozesse (Iterativ lernende Regelung)
 
